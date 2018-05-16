@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderLib", "SpiderLib\SpiderLib.csproj", "{F67D86A9-09DD-4D02-ADC9-963E4CDF753B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderFrm", "SpiderFrm\SpiderFrm.csproj", "{D5BD439B-9E91-41D3-ADC7-B958A2463E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67D86A9-09DD-4D02-ADC9-963E4CDF753B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67D86A9-09DD-4D02-ADC9-963E4CDF753B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67D86A9-09DD-4D02-ADC9-963E4CDF753B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67D86A9-09DD-4D02-ADC9-963E4CDF753B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BD439B-9E91-41D3-ADC7-B958A2463E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BD439B-9E91-41D3-ADC7-B958A2463E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BD439B-9E91-41D3-ADC7-B958A2463E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BD439B-9E91-41D3-ADC7-B958A2463E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73EE205-0D80-4A1C-A388-187E17CAD92B}
+	EndGlobalSection
+EndGlobal
