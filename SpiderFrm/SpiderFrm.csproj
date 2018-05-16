@@ -83,5 +83,11 @@
     <Folder Include="Forms\" />
     <Folder Include="Panels\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SpiderLib\SpiderLib.csproj">
+      <Project>{f67d86a9-09dd-4d02-adc9-963e4cdf753b}</Project>
+      <Name>SpiderLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
